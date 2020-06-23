@@ -1,0 +1,107 @@
+body {
+    max-width: 1920px;
+    height: 2080px;
+    background-color: #ffffff;
+    font-family: 'Calibri', sans-serif;
+}
+.header_logo {
+    position: absolute;
+    left: 263px;
+    top: 21px;
+    max-width: 100%;     
+}
+.header_menu {
+    position: absolute;
+    left: 419px;
+    top: 39px
+}
+.header_menu_list {
+    margin: 0;
+    padding: 0;
+}
+.header_menu_list li {
+    display: inline;
+    margin-left: 56px;
+}
+.header_menu_list a {
+    text-decoration: none;
+    font-size: 14px;
+    color: #929292;
+}
+.header_number {
+    position: absolute;
+    left: 1176px;
+    top: 40px;
+    font-size: 14px;
+    font-weight: bold;
+}
+.main_couv {
+    position: absolute;
+    top: 95px;
+    left: 803px;
+}
+.main_led {
+    position: absolute;
+    top: 160px;
+    left: 750px;
+}
+.h1 {
+    position: absolute;
+    font-size: 47px;
+    font-weight: bold;
+    line-height: 57px;
+    letter-spacing: 0.4px;
+}
+.h2 {
+    position: absolute;
+    font-size: 18px;
+    line-height: 28px;
+    color: #929292;
+    letter-spacing: 0.4px;
+}
+.main_text1 {
+    top: 97px;
+    left: 263px;     
+}
+.main_text2 {
+    top: 310px;
+    left: 265px;  
+}
+strong {
+    color: #fb973b;
+}
+.main_form {
+    position: absolute;
+    top: 440px;
+    left: 265px;
+}
+.main_form_number {
+    width: 100px;
+    padding: 13px 25px;   
+}
+input::placeholder {
+    font-size: 13.5px;
+}
+.main_form_button {
+    width: 152px;
+    height: 45px;
+    background-color: #fb973b;
+    color:#ffffff;
+    padding: 13px 25px;
+    border: none;
+    font-size: 14px;
+}
+.main_text3 {
+    top: 604px;
+    left: 439px;
+}
+.main_text4 {
+    top:697px;
+    left: 559px;
+    text-align: center;   
+}
+.main_lamp {
+    position: absolute;
+    top: 805px;
+    left:432px;
+}
